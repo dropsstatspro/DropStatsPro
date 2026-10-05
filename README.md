@@ -42,4 +42,4 @@ As informações mantidas pela extensão ficam no armazenamento local do Chrome 
 
 Esta política poderá ser atualizada se as funcionalidades ou o tratamento de dados da extensão mudarem. A versão atual ficará disponível no endereço onde esta política for publicada.
 
-Para dúvidas ou solicitações relacionadas à privacidade, entre em contato pelo e-mail: **renanponcianop@gmail.com**.
+Para dúvidas ou solicitações relacionadas à privacidade, entre em contato pelo e-mail: **dropsstatspro@gmail.com**.
